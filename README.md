@@ -1,0 +1,1 @@
+This autoshoot is functional in hvh (only with resolving) I would not recommend using it without resolving also against bots with fakelag it also works not altering the poinscale could affect the aimbot it is highly recommended to leave it at the default value)
